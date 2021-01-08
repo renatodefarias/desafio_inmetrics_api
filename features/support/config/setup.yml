@@ -1,0 +1,4 @@
+url_empregado: http://inm-api-test.herokuapp.com/empregado
+auth:
+  username: inmetrics
+  pw: automacao

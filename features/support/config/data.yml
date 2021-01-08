@@ -1,0 +1,6 @@
+empregado:
+  cargo: ['Analista de Testes Junior', 'Analista de Testes Pleno', 'Analista de Testes Senior', 'Especialista de Testes']
+  comissao: ['1.000,00', '2.000,00', '3.000,00', '5.000,00', '6.000,00']
+  salario: ['1.000,00', '2.000,00', '3.000,00', '5.000,00', '6.000,00']
+  sexo: ['m','f']
+  tipo_contratacao: ['clt','pj']
